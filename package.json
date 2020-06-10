@@ -2,7 +2,7 @@
   "name": "bias-app",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://theelk801.github.io/Hometown-Lookup",
+  "homepage": "https://theelk801.github.io/Hometown-Lookup",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
