@@ -11,19 +11,32 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.outer {
+  display: flex;
+  justify-content: center;
+}
 .container {
   margin: 20px;
   max-width: 400px;
 }
-.summary{
+.summary {
+  text-align: left;
+}
+h2 {
   text-align: center;
 }
 .component {
   margin-top: 5px;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
   border-color: black;
 }
-input{
+.smaller > .summary {
+  font-size: 12px;
+  text-align: center;
+  font-style: italic;
+  margin-bottom: 5px;
+}
+input {
   max-width: 375px;
 }
 .selector {
