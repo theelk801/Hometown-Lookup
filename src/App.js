@@ -74,18 +74,12 @@ class App extends Component {
         <div className="container">
           <h2>Untitled Project: Hometown</h2>
           <div className="component summary">
-            Goal 1: Learn about your hometown's history of discrimination as
-            well as current issues
+            Goal 1: Learn about your hometown's (or any town's) history and
+            current instances of discrimination
           </div>
           <div className="component summary">
-            Goal 2: Unlearn the use of "growing up in a liberal or progressive
-            town" as a defense against learning about racism and discrimination
-            that impacted your upbringing
-          </div>
-          <div className="component summary">
-            Goal 3: Learn relevant examples in your hometown to use when
-            speaking with parents and family who struggle to connect with your
-            experiences or examples
+            Goal 2: Find localized examples to use in conversation with family
+            and acquaintances
           </div>
           <div className="smaller">
             <div className="component summary">
